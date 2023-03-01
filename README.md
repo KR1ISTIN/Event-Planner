@@ -11,6 +11,7 @@ Need a scheduler to help you stay on track during your work day? Simply add a ta
 
 
 <img src="assest/workday.png" alt="event scheduler webpage">
+<a href="https://kr1istin.github.io/Event-Planner/">Event Scheduler Site</a>
 
 
 ## License
